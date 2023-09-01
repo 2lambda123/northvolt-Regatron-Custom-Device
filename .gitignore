@@ -1,26 +1,13 @@
 
 G5 Regatron Custom Device/G5 Regatron Custom Device Custom Device.aliases
 G5 Regatron Custom Device/G5 Regatron Custom Device Custom Device.lvproj.config
-__pycache__/dodo.cpython-39.pyc
-output/build/Custom Device G5 Regatron Custom Device.xml
-output/build/Engine Release_depinstr.bin
-output/build/Linux_x64/G5 Regatron Custom Device Engine Linux64.llb
-output/build/Windows/G5 Regatron Custom Device Configuration.llb
-output/build/Windows/G5 Regatron Custom Device Engine Windows.llb
-output/build/Windows/G5 Regatron Custom Device.chm
-output/build/Windows/Data/Disabled.png
-output/build/Windows/Data/Regatron.png
-output/package/northvolt-regatron-custom-device_1.0.4.6_windows_x64.nipkg
-output/package/Regatron G5 Custom Device/debian-binary
-output/package/Regatron G5 Custom Device/control/control
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Custom Device G5 Regatron Custom Device.xml
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Linux_x64/G5 Regatron Custom Device Engine Linux64.llb
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Windows/G5 Regatron Custom Device Configuration.llb
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Windows/G5 Regatron Custom Device Engine Windows.llb
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Windows/G5 Regatron Custom Device.chm
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Windows/Data/Disabled.png
-output/package/Regatron G5 Custom Device/data/Home/Documents/National Instruments/NI VeriStand 2021/Custom Devices/G5 Regatron Custom Device/Windows/Data/Regatron.png
+__pycache__/*
+output/*
 .doit.db.bak
 .gitignore
 .doit.db.dir
 .doit.db.dat
+G5 Regatron Custom Device/Help/Build CHM.log
+G5 Regatron Custom Device/ProcessingStage/*
+G5 Regatron Custom Device/log-Regatron Custom Device.txt
+G5 Regatron Custom Device/Help/G5 Regatron Custom Device.chm
