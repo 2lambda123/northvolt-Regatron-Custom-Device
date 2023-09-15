@@ -132,4 +132,9 @@
 		<Item Name="G5.Rest SW Status.vi" Type="VI" URL="../Regatron.G5.Rest Firmware.llb/G5.Rest SW Status.vi"/>
 		<Item Name="G5.Rest SystemCluster.vi" Type="VI" URL="../Regatron.G5.Rest Firmware.llb/G5.Rest SystemCluster.vi"/>
 	</Item>
+	<Item Name="Regatron.G5.Rest Battery Control" Type="Folder">
+		<Item Name="G5.Rest Battery Control Functions.ctl" Type="VI" URL="../G5.Rest Battery Control Functions.ctl"/>
+		<Item Name="G5.Rest Battery Control Values.ctl" Type="VI" URL="../G5.Rest Battery Control Values.ctl"/>
+		<Item Name="G5.Rest Battery Control.vi" Type="VI" URL="../G5.Rest Battery Control.vi"/>
+	</Item>
 </Library>

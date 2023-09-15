@@ -31,6 +31,7 @@
 				<Item Name="Create System Output Values.vi" Type="VI" URL="../Channel Creation/Create System Output Values.vi"/>
 				<Item Name="Create System Reference Read.vi" Type="VI" URL="../Channel Creation/Create System Reference Read.vi"/>
 				<Item Name="Create Utility.vi" Type="VI" URL="../Channel Creation/Create Utility.vi"/>
+				<Item Name="Create Battery Control.vi" Type="VI" URL="../Channel Creation/Create Battery Control.vi"/>
 			</Item>
 			<Item Name="Load Help File.vi" Type="VI" URL="../Load Help File.vi"/>
 			<Item Name="Mutate 1-0-2-1.vi" Type="VI" URL="../Mutate 1-0-2-1.vi"/>
