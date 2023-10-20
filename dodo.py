@@ -10,7 +10,7 @@ output_path = cwd / 'output'
 file_list = []
 
 #Write the release version to file
-version = "1.0.4.6"
+version = "1.0.4.11"
 f= open("version.txt",'w')
 f.write(version)
 f.close()

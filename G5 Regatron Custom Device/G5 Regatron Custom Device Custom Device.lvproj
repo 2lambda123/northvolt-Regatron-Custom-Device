@@ -151,7 +151,7 @@
 				<Property Name="Destination[3].destName" Type="Str">Glyphs</Property>
 				<Property Name="Destination[3].path" Type="Path">../output/build/Windows/Data/Glyphs</Property>
 				<Property Name="DestinationCount" Type="Int">4</Property>
-				<Property Name="Source[0].itemID" Type="Str">{3B7F861A-142C-49C7-ADA2-326C2465125D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7CACDC0A-106B-4509-93C6-08C700F95138}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Custom Device G5 Regatron Custom Device.xml</Property>
@@ -231,7 +231,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../output/build/Windows</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{3B7F861A-142C-49C7-ADA2-326C2465125D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7CACDC0A-106B-4509-93C6-08C700F95138}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/G5 Regatron Custom Device Engine.lvlib/RT Driver VI.vi</Property>
@@ -442,7 +442,7 @@
 				<Property Name="Destination[1].path" Type="Path">/Linux_x64</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{7D1077CA-CAC6-45D5-ADC5-252E6312F666}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4C1AE184-3C54-4235-8963-81FAE22D3043}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT PXI Target - Linux x64/G5 Regatron Custom Device Engine.lvlib/RT Driver VI.vi</Property>

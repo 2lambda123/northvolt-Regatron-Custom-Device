@@ -5,7 +5,7 @@
     <eng>NI::G5 Regatron Custom Device</eng>
     <loc>NI::G5 Regatron Custom Device</loc>
   </AddMenu>
-  <Version>1.0.4.6</Version>
+  <Version>1.0.4.11</Version>
   <Type>Asynchronous</Type>
   <MaxOccurrence>99</MaxOccurrence>
   <MainPageGUID>53720824-6858-4655-a7de-cc71540320c5</MainPageGUID>
@@ -94,6 +94,10 @@
         <Type>To Common Doc Dir</Type>
         <Path>Custom Devices\G5 Regatron Custom Device\Windows\G5 Regatron Custom Device Configuration.llb\ActionVIOnLoad.vi</Path> 
       </ActionVIOnLoad>
+      <ActionVIOnCompile>
+        <Type>To Common Doc Dir</Type>
+        <Path>Custom Devices\G5 Regatron Custom Device\Windows\G5 Regatron Custom Device Configuration.llb\ActionVIOnCompile.vi</Path> 
+      </ActionVIOnCompile>
     </Page>
     <Page>
       <Name>
@@ -151,6 +155,10 @@
         <Type>To Common Doc Dir</Type>
         <Path>Custom Devices\G5 Regatron Custom Device\Windows\G5 Regatron Custom Device Configuration.llb\ActionVIOnLoad.vi</Path> 
       </ActionVIOnLoad>
+      <ActionVIOnCompile>
+        <Type>To Common Doc Dir</Type>
+        <Path>Custom Devices\G5 Regatron Custom Device\Windows\G5 Regatron Custom Device Configuration.llb\ActionVIOnCompile.vi</Path> 
+      </ActionVIOnCompile>
     </Page>
 
     

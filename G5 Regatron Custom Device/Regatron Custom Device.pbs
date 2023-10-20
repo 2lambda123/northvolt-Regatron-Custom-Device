@@ -194,7 +194,7 @@
             <AutoIncrementVersion>Build</AutoIncrementVersion>
             <BuildStatus z:Id="i30">
                 <FileName />
-                <Version>1.0.4.6</Version>
+                <Version>1.0.4.11</Version>
             </BuildStatus>
             <CompanyName>MyCompany</CompanyName>
             <CustomExecutes />
@@ -208,7 +208,7 @@
             <ProductName>MyProduct</ProductName>
             <Section>Add-Ons</Section>
             <Synopsis>Custom Device for Regatron G5 battery cyclers</Synopsis>
-            <Version>1.0.4.6</Version>
+            <Version>1.0.4.11</Version>
         </Distribution>
     </Distributions>
     <Feeds />

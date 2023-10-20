@@ -35,6 +35,9 @@
 			</Item>
 			<Item Name="Load Help File.vi" Type="VI" URL="../Load Help File.vi"/>
 			<Item Name="Mutate 1-0-2-1.vi" Type="VI" URL="../Mutate 1-0-2-1.vi"/>
+			<Item Name="Mutate 1-0-4-9.vi" Type="VI" URL="../Mutate 1-0-4-9.vi"/>
+			<Item Name="Mutate 1-0-4-10.vi" Type="VI" URL="../Mutate 1-0-4-10.vi"/>
+			<Item Name="Mutate 1-0-4-11.vi" Type="VI" URL="../Mutate 1-0-4-11.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder"/>
 		<Item Name="Glyphs" Type="Folder">
